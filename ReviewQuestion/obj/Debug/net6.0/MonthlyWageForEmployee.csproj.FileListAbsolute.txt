@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\bin\Debug\net6.0\MonthlyWageForEmployee.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\bin\Debug\net6.0\MonthlyWageForEmployee.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\bin\Debug\net6.0\MonthlyWageForEmployee.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\bin\Debug\net6.0\MonthlyWageForEmployee.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\bin\Debug\net6.0\MonthlyWageForEmployee.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\refint\MonthlyWageForEmployee.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\MonthlyWageForEmployee.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ReviewQuestion\obj\Debug\net6.0\ref\MonthlyWageForEmployee.dll
